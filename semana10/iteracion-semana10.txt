@@ -1,0 +1,20 @@
+¿Qué 2 tareas del backlog harías primero?
+
+1. Como estudiante quiero reportar fallas en la infraestructura (salones, baños, iluminación) para que sean atendidas oportunamente.
+
+2. Como representante estudiantil quiero centralizar las quejas y solicitudes en una sola plataforma para organizarlas y darles seguimiento.
+
+¿Por qué son las más importantes?
+
+Estas dos tareas son fundamentales porque permiten construir la base del sistema: primero la recolección de información (reportes) y luego su organización centralizada. Sin la captura de incidencias no hay datos, y sin una plataforma que las agrupe no hay control ni seguimiento. Estas funcionalidades habilitan todas las demás, como consultas, estadísticas o notificaciones.
+
+¿Qué significa para ti que una tarea esté “terminada”?
+
+Una tarea está terminada cuando cumple su propósito funcional, ha sido validada y queda lista para ser usada sin generar errores ni ambigüedades.
+
+Definición de terminado:
+
+- La funcionalidad cumple con lo que se solicitó (permite registrar o gestionar correctamente la información).
+- Fue probada con casos reales o simulados y funciona sin errores.
+- La información queda almacenada correctamente en la base de datos.
+- El código o avance fue documentado y registrado (por ejemplo, en Git).

@@ -1,0 +1,19 @@
+¿Qué evento activa el flujo?
+
+El flujo se activa cuando un usuario registra un nuevo reporte en la plataforma (incidencia en infraestructura, servicios o solicitud estudiantil).
+
+¿Qué mensaje se enviaría a Telegram?
+
+“ Nuevo reporte registrado.
+Tipo: [Infraestructura / Servicio / Académico]
+Estado: Pendiente
+Fecha: [fecha automática]
+Revisar en el sistema para más detalles.”
+
+¿Qué información no debería enviarse por seguridad?
+
+- Nombres completos de los usuarios.
+- Documentos de identidad.
+- Direcciones exactas o ubicaciones precisas.
+- Números de teléfono o correos personales.
+- Cualquier dato sensible o privado que pueda comprometer la seguridad del usuario o del caso.

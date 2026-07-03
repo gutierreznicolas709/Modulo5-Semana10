@@ -1,0 +1,9 @@
+Como estudiante quiero reportar fallas en la infraestructura (salones, baños, iluminación) para que sean atendidas oportunamente.
+
+Como estudiante quiero conocer el estado de solicitudes académicas o administrativas para evitar desinformación y retrasos.
+
+Como representante estudiantil quiero centralizar las quejas y solicitudes en una sola plataforma para organizarlas y darles seguimiento.
+
+Como ciudadano quiero reportar problemas en servicios públicos (agua, luz, basura) para que las entidades responsables puedan intervenir.
+
+Como miembro de la comunidad quiero recibir notificaciones sobre avances o soluciones a los reportes realizados para estar informado.
